@@ -1,0 +1,38 @@
+.image1 {
+    z-index: 500;
+    width: auto;
+}
+
+.image2 {
+    z-index: 500;
+    width: auto;
+}
+
+.image3 {
+    z-index: 500;
+    width: auto;
+}
+
+.parallax-container {
+    height: 600px;
+  }
+
+.parallax{
+    position: static;
+  }
+
+.menu {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    height: 120px;
+    line-height: 120px;
+}
+
+nav .brand-logo {
+    padding-left: 10px;
+    padding-top: 10px;
+}
