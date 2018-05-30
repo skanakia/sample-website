@@ -36,3 +36,15 @@ nav .brand-logo {
     padding-left: 10px;
     padding-top: 10px;
 }
+
+#menu {
+    z-index: 600;
+}
+
+.tap-target {
+    z-index: 500;
+}
+
+.material-icons {
+    z-index: 800;
+}
